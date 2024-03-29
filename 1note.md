@@ -10,3 +10,4 @@
 ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/a6ba9d23-3d00-4308-a49a-b3f20892c1e7)
 
 
+增加了一些新功能新组件，了解了一下大概，到时试试看
