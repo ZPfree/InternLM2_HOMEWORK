@@ -17,3 +17,5 @@ TurboMind与TurboMind模型的关系：TurboMind是推理引擎的名字，Turbo
 
 
 了解一下这个区别。
+
+LMDeploy使用AWQ算法，实现模型4bit权重量化。推理引擎TurboMind提供了非常高效的4bit推理cuda kernel，性能是FP16的2.4倍以上。
