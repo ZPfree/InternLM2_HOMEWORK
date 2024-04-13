@@ -20,6 +20,22 @@
 
 ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/1af43e6f-5a65-4b04-b4ac-551d04a976ae)
 
+豆哥
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/ddac97ec-9b56-466e-af29-9d4278ccf4cd)
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/3accae59-5d1c-4ce7-b523-3d6d1b6b5c98)
+
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/babe439b-0018-4bd1-a81e-900c6e89bc91)
+
+文档切割的问题 它有时不去读文档的内容 直接大模型了 为什么呢
+
+
+
+
 
 
 
