@@ -34,7 +34,11 @@
 
  ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/1c961dc2-4fd3-415b-9dae-04d2e64d6887)
 
+
  原模型的部署
+
+
+ 
  ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/01d41dd2-4e84-448c-9690-1708b1e23423)
 
  
