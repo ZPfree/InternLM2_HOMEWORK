@@ -60,9 +60,20 @@
 
 
 
- 
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/90c61dc8-a889-4456-9959-c567de99849f)
+
+
+结果
 
 
 
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/6a17d55a-afb2-4c36-b662-b08c1e290ade)
+
+
+ Finetune后：
+
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/86cb71b3-3f0e-4753-b283-2ed17e46240e)
 
 
