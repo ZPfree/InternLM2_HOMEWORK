@@ -41,8 +41,22 @@
  
  ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/01d41dd2-4e84-448c-9690-1708b1e23423)
 
- 
 
+ 多模态的使用。
+
+
+
+配置文件修改
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/059f080a-a67b-405c-8e60-05d20996f0a2)
+
+训练过程
+
+
+ ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/d8bbb802-c42f-4d3f-8db0-01daf79ea23d)
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/871ccc9d-fb46-470c-b458-473c2cc9a0e7)
 
 
 
