@@ -1,3 +1,5 @@
+基础作业
+
 Lagent Web Demo
 Lagent 复现
 启动api_server
@@ -36,3 +38,5 @@ AgentLego  查询天气
 
 
 ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/0aff41fb-1a61-4540-add5-b0925e57d874)
+
+进阶作业待做。。
