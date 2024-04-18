@@ -39,4 +39,18 @@ AgentLego  查询天气
 
 ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/0aff41fb-1a61-4540-add5-b0925e57d874)
 
-进阶作业待做。。
+进阶作业待做
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/75941d7b-102e-4a9c-a9ad-d4f3a8885b11)
+
+结果图
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/04368cc2-b05d-400e-afb2-773c79eb1804)
+
+原图
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/e7fa7cec-eced-4c6c-bd49-3f23a1cd00c0)
+
+
+
