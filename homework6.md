@@ -52,5 +52,29 @@ AgentLego  查询天气
 
 ![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/e7fa7cec-eced-4c6c-bd49-3f23a1cd00c0)
 
+AgentLego WebUI
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/c19aaac5-3896-47d3-93a4-03acca7f854c)
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/7907c69b-5aec-4981-8867-143922539908)
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/ebb9bb5a-0590-47ce-bc29-b551970e43e6)
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/692693f9-32bd-4095-9da6-e62791cb41a2)
+
+
+我不说明用中文回答，直接整英文回答？啥问题
+
+
+![image](https://github.com/ZPfree/InternLM2_HOMEWORK/assets/16116418/6f73dd7e-6f1b-4ffb-a5b3-14e8a5f56f6b)
+
+
+
+
+
+
 
 
